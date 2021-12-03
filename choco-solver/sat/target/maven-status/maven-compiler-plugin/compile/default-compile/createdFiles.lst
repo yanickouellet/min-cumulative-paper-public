@@ -1,0 +1,6 @@
+org/chocosolver/sat/SatSolver.class
+org/chocosolver/sat/SatFactory.class
+org/chocosolver/sat/SatSolver$Clause.class
+org/chocosolver/sat/SatSolver$Boolean.class
+module-info.class
+org/chocosolver/sat/SatSolver$Watcher.class

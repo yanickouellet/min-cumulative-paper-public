@@ -1,0 +1,9 @@
+org/chocosolver/examples/integer/GolombRulerTest.class
+org/chocosolver/examples/integer/CostasArraysTest.class
+org/chocosolver/examples/integer/MagicSquareTest.class
+org/chocosolver/examples/integer/KnapsackTest.class
+org/chocosolver/examples/integer/NQueenTest.class
+org/chocosolver/examples/integer/PartitionTest.class
+org/chocosolver/examples/integer/ParetoFront.class
+org/chocosolver/examples/SamplesTest.class
+org/chocosolver/examples/set/SetPartitionTest.class
